@@ -99,13 +99,11 @@ Figma
 
 🤝 Mari Terhubung
 
-<p align="center">
-<a href="https://www.linkedin.com/in/farel-yamotaro-hia-3a880b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6d2cbbb2-b460-48c5-9ba0-0792f6208394 />
-" alt="LinkedIn" /></a>
-<a href="https://www.google.com/search?q=https://twitter.com/USERNAME_ANDA" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" /></a>
-<a href="mailto:email@anda.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.google.com/search?q=https://instagram.com/USERNAME_ANDA" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<div align="center">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/farelyamo?igsh=MWplcXFvbGF6a2Zybg==)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farel-yamotaro-hia-3a880b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/F-comand02)
+</div>
 
 🎧 Sedang Didengarkan
 
