@@ -86,33 +86,18 @@ Figma
 </tr>
 </table>
 
-📊 Statistik GitHub
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-</div>
-
 
 🤝 Mari Terhubung
 
-<div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/farelyamo?igsh=MWplcXFvbGF6a2Zybg==)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/farel-yamotaro-hia-3a880b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/F-comand02)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/farel-yamotaro-hia-3a880b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img width="50" height="50" alt="sosial" src="https://github.com/user-attachments/assets/d5e996cd-cc70-459d-ae65-54e267358759" />
+  </a>
+  <a href="https://www.linkedin.com/in/farel-yamotaro-hia-3a880b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img width="50" height="50" alt="sosial" src="https://github.com/user-attachments/assets/9433adbf-9922-4914-b750-b006916b158f" />
+  </a>
+</p>
 
-🎧 Sedang Didengarkan
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://novatorem-spotify-readme.vercel.app/api/now-playing%3Fuid%3DUSER_ID_SPOTIFY" alt="Spotify Now Playing" width="350" />
-</div>
-
-Dibuat dengan ❤️ oleh [Nama Anda]
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D00b4d8%26height%3D100%26section%3Dfooter" width="100%" />
+Dibuat dengan ❤️ oleh Farel Yamotaro Hia
 
 </div>
