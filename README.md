@@ -4,8 +4,7 @@ Halo, Saya Farel Yamotaro Hia! 👋
 
 💻 Student of University Of North Sumatera
 
-<img width="200" height="200" alt="image" src="<img width="700" height="1244" alt="WhatsApp Image 2026-08-25 at 12 18 11 PM" src="https://github.com/user-attachments/assets/c26daacf-a68e-4bf5-8918-db07babf4267" />
-" />
+<img width="700" height="1244" alt="WhatsApp Image 2026-08-25 at 12 18 11 PM" src="https://github.com/user-attachments/assets/c26daacf-a68e-4bf5-8918-db07babf4267" />
 
 💫 Tentang Saya
 
