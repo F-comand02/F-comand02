@@ -4,7 +4,7 @@ Halo, Saya Farel Yamotaro Hia! 👋
 
 💻 Student of University Of North Sumatera
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d93d52a-eb2a-4d1d-90bb-c57ef3573ed4" />
+<img width="200" height="200" alt="image" src="blob:https://web.whatsapp.com/336ff27c-a9a7-4cfd-a9c6-c3f5358f6977" />
 
 💫 Tentang Saya
 
