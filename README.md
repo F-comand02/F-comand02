@@ -1,24 +1,10 @@
 <div align="center">
 
-Halo, Saya Farel Yamotaro Hia! 👋
+Halo, Saya Farel Yamotaro Hia!
 
 💻 Student of University Of North Sumatera
 
 <img width="700" height="1244" alt="WhatsApp Image 2026-08-25 at 12 18 11 PM" src="https://github.com/user-attachments/assets/c26daacf-a68e-4bf5-8918-db07babf4267" />
-
-💫 Tentang Saya
-
-Saya adalah seorang mahasiswa yang suka membuat website dan belajar pemrograman.
-
-🔭 Sedang Mengerjakan: Website, Mobile App
-
-🌱 Sedang Belajar: Node.js, Tailwind, C++
-
-💬 Tanya Saya Tentang: React, Node.js, dan UI/UX Design
-
-⚡ Fakta Menarik: Saya bisa menghabiskan waktu berjam-jam hanya umtuk mentata letak layout halaman website.
-
-🛠️ Teknologi & Peralatan
 
 <table align="center">
 <tr>
@@ -87,8 +73,6 @@ Figma
 </table>
 
 
-🤝 Mari Terhubung
-
 <p align="center">
   <a href="https://www.linkedin.com/in/farel-yamotaro-hia-3a880b35b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img width="50" height="50" alt="sosial" src="https://github.com/user-attachments/assets/d5e996cd-cc70-459d-ae65-54e267358759" />
@@ -97,7 +81,5 @@ Figma
     <img width="50" height="50" alt="sosial" src="https://github.com/user-attachments/assets/9433adbf-9922-4914-b750-b006916b158f" />
   </a>
 </p>
-
-Dibuat dengan ❤️ oleh Farel Yamotaro Hia
 
 </div>
