@@ -82,4 +82,17 @@ Figma
   </a>
 </p>
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F-comand02&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-comand02&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+</p>
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-comand02&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 </div>
